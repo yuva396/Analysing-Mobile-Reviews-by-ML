@@ -51,7 +51,7 @@ Word Cloud & TF-IDF for Keyword Analysis
 To set up the project, follow these steps:
 
 ```bash
-git clone https://github.com/yuva396/house-price-prediction.git
+git clone https://github.com/yuva396/Analysing-Mobile-Reviews-by-ML.git
 ```
 Change the directory
 ```bash
